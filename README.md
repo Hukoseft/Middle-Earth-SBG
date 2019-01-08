@@ -1,6 +1,6 @@
 # Middle-Earth-SBG
 
-For use with Battlescribe.
+For use with Battlescribe on Android, iOS & desktops.
 
 On Android phone, save the files in a folder labelled "Middle-Earth Strategy Battle Game" in the directory;
 
