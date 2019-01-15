@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="b493-2406-a4ce-2319" name="The Fellowship" revision="5" battleScribeVersion="2.01" gameSystemId="3e16-9abf-6238-4ed9" gameSystemRevision="16" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="b493-2406-a4ce-2319" name="The Fellowship" revision="7" battleScribeVersion="2.01" authorName="Hukoseft" authorContact="hukoseft@gmail.com" gameSystemId="3e16-9abf-6238-4ed9" gameSystemRevision="16" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules>
     <rule id="d925-c372-52d7-b06f" name="Additional Rules" book="Armies of Lord of the Rings" page="8" hidden="false">
@@ -7,7 +7,7 @@
       <rules/>
       <infoLinks/>
       <modifiers/>
-      <description>Unlike normal warbands, a Fellowship warband is comprised entirely of Hero models. Additionally, a Fellowship warband that contains Samwise Gamgee may also contain Bill the Pony. If the warband only contains Frodo Baggins and Samwise Gamgee, then it may also include Smeagol.</description>
+      <description>Unlike normal warbands, a Fellowship warband is comprised entirely of Hero models. Additionally, a Fellowship warband that contains Samwise Gamgee may also contain Bill the Pony. If the warband only contains Frodo Baggins and Samwise Gamgee, then it may also include Sméagol.</description>
     </rule>
   </rules>
   <infoLinks/>
@@ -54,9 +54,9 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="cec6-0426-0f8d-475f" name="Aragorn - Strider" hidden="false" collective="false" type="upgrade">
@@ -89,9 +89,9 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="d97d-4706-24ba-4f9c" name="Pippin" hidden="false" collective="false" type="upgrade">
@@ -124,9 +124,9 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="4b84-5693-a35b-2f38" name="Merry" hidden="false" collective="false" type="upgrade">
@@ -159,9 +159,9 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="8777-79a5-6049-4705" name="Frodo Baggins" hidden="false" collective="false" type="upgrade">
@@ -194,9 +194,9 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="8baf-cfbb-42ab-a4a7" name="Samwise Gamgee" hidden="false" collective="false" type="upgrade">
@@ -229,9 +229,9 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="abcf-6fc8-f661-c26f" name="Boromir of Gondor" hidden="false" collective="false" type="upgrade">
@@ -264,9 +264,9 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="3e73-1fad-00f6-f0ca" name="Legolas Greenleaf" hidden="false" collective="false" type="upgrade">
@@ -299,12 +299,12 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="248e-3913-c293-7322" name="Gimli Son of Gloin" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="248e-3913-c293-7322" name="Gimli Son of Glóin" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -324,7 +324,7 @@
       <selectionEntries/>
       <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="7cfa-d1fc-8a60-5ccb" name="Gimli Son of Gloin" hidden="false" targetId="120a-8965-6980-8112" type="selectionEntry">
+        <entryLink id="7cfa-d1fc-8a60-5ccb" name="Gimli Son of Glóin" hidden="false" targetId="120a-8965-6980-8112" type="selectionEntry">
           <profiles/>
           <rules/>
           <infoLinks/>
@@ -342,9 +342,9 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="8d60-aa81-4527-68d2" name="Bill the Pony" hidden="false" collective="false" type="upgrade">
@@ -373,7 +373,7 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="1f0e-c935-3a0d-f217" name="Bill the Pony" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="1f0e-c935-3a0d-f217" name="Bill the Pony" hidden="false" collective="false" type="model">
           <profiles>
             <profile id="37f3-9def-37d8-290b" name="Bill the Pony" book="Armies of Lord of the Rings" page="14" hidden="false" profileTypeId="80cb-17d0-8683-a212" profileTypeName="Hero">
               <profiles/>
@@ -449,8 +449,8 @@
             </entryLink>
           </entryLinks>
           <costs>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="25.0"/>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="25.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -458,12 +458,12 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="558d-8cf4-7895-2bf2" name="Smeagol" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="558d-8cf4-7895-2bf2" name="Sméagol" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -484,37 +484,37 @@
                     <condition field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="248e-3913-c293-7322" type="equalTo"/>
                   </conditions>
                   <conditionGroups>
-                    <conditionGroup type="or">
+                    <conditionGroup type="and">
                       <conditions>
                         <condition field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="4e50-b955-82f7-add6" type="equalTo"/>
                       </conditions>
                       <conditionGroups>
-                        <conditionGroup type="or">
+                        <conditionGroup type="and">
                           <conditions>
                             <condition field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="cec6-0426-0f8d-475f" type="equalTo"/>
                           </conditions>
                           <conditionGroups>
-                            <conditionGroup type="or">
+                            <conditionGroup type="and">
                               <conditions>
                                 <condition field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="d97d-4706-24ba-4f9c" type="equalTo"/>
                               </conditions>
                               <conditionGroups>
-                                <conditionGroup type="or">
+                                <conditionGroup type="and">
                                   <conditions>
                                     <condition field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="4b84-5693-a35b-2f38" type="equalTo"/>
                                   </conditions>
                                   <conditionGroups>
-                                    <conditionGroup type="or">
+                                    <conditionGroup type="and">
                                       <conditions>
                                         <condition field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="abcf-6fc8-f661-c26f" type="equalTo"/>
                                       </conditions>
                                       <conditionGroups>
-                                        <conditionGroup type="or">
+                                        <conditionGroup type="and">
                                           <conditions>
                                             <condition field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="3e73-1fad-00f6-f0ca" type="equalTo"/>
                                           </conditions>
                                           <conditionGroups>
-                                            <conditionGroup type="or">
+                                            <conditionGroup type="and">
                                               <conditions>
                                                 <condition field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="8d60-aa81-4527-68d2" type="equalTo"/>
                                               </conditions>
@@ -552,9 +552,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="ff35-c6ae-704d-81c8" name="Smeagol" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="ff35-c6ae-704d-81c8" name="Sméagol" hidden="false" collective="false" type="model">
           <profiles>
-            <profile id="54dc-e97d-6573-1c4a" name="Smeagol" book="Armies of Lord of the Rings" page="15" hidden="false" profileTypeId="80cb-17d0-8683-a212" profileTypeName="Hero">
+            <profile id="54dc-e97d-6573-1c4a" name="Sméagol" book="Armies of Lord of the Rings" page="15" hidden="false" profileTypeId="80cb-17d0-8683-a212" profileTypeName="Hero">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -582,7 +582,7 @@
               <rules/>
               <infoLinks/>
               <modifiers/>
-              <description>Smeagol may only be taken if Frodo is also in the same army.</description>
+              <description>Sméagol may only be taken if Frodo is also in the same army.</description>
             </rule>
           </rules>
           <infoLinks>
@@ -689,7 +689,7 @@
                       <infoLinks/>
                       <modifiers/>
                       <characteristics>
-                        <characteristic name="Rules" characteristicTypeId="327f-0755-cd3a-d1a0" value="Smeagol has strong strangling fingers, so is never considered unarmed. Ever!"/>
+                        <characteristic name="Rules" characteristicTypeId="327f-0755-cd3a-d1a0" value="Sméagol has strong strangling fingers, so is never considered unarmed. Ever!"/>
                       </characteristics>
                     </profile>
                   </profiles>
@@ -705,8 +705,8 @@
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -726,8 +726,8 @@
             </entryLink>
           </entryLinks>
           <costs>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="30.0"/>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="30.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -735,9 +735,9 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
   </selectionEntries>
@@ -749,7 +749,9 @@
       <modifiers>
         <modifier type="set" field="e767-a24e-d3eb-c447" value="1">
           <repeats/>
-          <conditions/>
+          <conditions>
+            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="18bd-5d69-3b58-61ac" type="atLeast"/>
+          </conditions>
           <conditionGroups/>
         </modifier>
       </modifiers>

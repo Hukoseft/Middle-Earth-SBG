@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="684e-34fe-e9a4-bc26" name="Far Harad" revision="2" battleScribeVersion="2.01" gameSystemId="3e16-9abf-6238-4ed9" gameSystemRevision="38" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="684e-34fe-e9a4-bc26" name="Far Harad" revision="4" battleScribeVersion="2.01" gameSystemId="3e16-9abf-6238-4ed9" gameSystemRevision="38" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <profiles/>
   <rules/>
   <infoLinks/>
@@ -8,7 +8,7 @@
   <categoryEntries/>
   <forceEntries/>
   <selectionEntries>
-    <selectionEntry id="b13f-d822-780d-afb9" name="War Mumak of Far Harad" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="b13f-d822-780d-afb9" name="War Mûmak of Far Harad" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -24,7 +24,7 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="856c-3d17-e9a8-a84b" name="War Mumak of Far Harad" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="856c-3d17-e9a8-a84b" name="War Mûmak of Far Harad" hidden="false" collective="false" type="model">
           <profiles/>
           <rules/>
           <infoLinks>
@@ -34,7 +34,7 @@
               <infoLinks/>
               <modifiers/>
             </infoLink>
-            <infoLink id="9519-5caf-326f-3ef7" name="Mumak" hidden="false" targetId="3e5a-7b94-e952-cfde" type="profile">
+            <infoLink id="9519-5caf-326f-3ef7" name="Mûmak" hidden="false" targetId="3e5a-7b94-e952-cfde" type="profile">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -81,9 +81,9 @@
           </constraints>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="feb0-0acf-6907-bc37" name="Mahud Beastmaster Chieftan" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="feb0-0acf-6907-bc37" name="Mahûd Beastmaster Chieftan" hidden="false" collective="false" type="upgrade">
               <profiles>
-                <profile id="ae95-4cc5-8d17-b880" name="Mahud Beastmaster Chieftan" book="Armies of Lord of the Rings" page="195" hidden="false" profileTypeId="80cb-17d0-8683-a212" profileTypeName="Hero">
+                <profile id="ae95-4cc5-8d17-b880" name="Mahûd Beastmaster Chieftan" book="Armies of Lord of the Rings" page="195" hidden="false" profileTypeId="80cb-17d0-8683-a212" profileTypeName="Hero">
                   <profiles/>
                   <rules/>
                   <infoLinks/>
@@ -100,7 +100,7 @@
                     <characteristic name="Will" characteristicTypeId="b509-13ce-7d03-816e" value="2"/>
                     <characteristic name="Fate" characteristicTypeId="67f5-8c5e-868c-5bd5" value="2"/>
                     <characteristic name="Heroic Actions" characteristicTypeId="fc29-34ba-8883-0379" value="March"/>
-                    <characteristic name="Keywords" characteristicTypeId="52a2-dbbe-8d97-a8a2" value="Man Mahud Infantry Hero"/>
+                    <characteristic name="Keywords" characteristicTypeId="52a2-dbbe-8d97-a8a2" value="Man Mahûd Infantry Hero"/>
                     <characteristic name="Heroic Tier" characteristicTypeId="2b79-2cec-28e7-0b0d" value="Hero of Fortitude"/>
                   </characteristics>
                 </profile>
@@ -146,9 +146,9 @@
               </selectionEntryGroups>
               <entryLinks/>
               <costs>
-                <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
                 <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-                <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
               </costs>
             </selectionEntry>
           </selectionEntries>
@@ -180,8 +180,8 @@
             </entryLink>
           </entryLinks>
           <costs>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="300.0"/>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="300.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -204,12 +204,12 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f4dd-77e4-82b6-8c2d" name="Mahud Tribesmaster" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="f4dd-77e4-82b6-8c2d" name="Mahûd Tribesmaster" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -225,9 +225,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="ea60-514a-e3d1-6bdd" name="Mahud Tribesmaster" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="ea60-514a-e3d1-6bdd" name="Mahûd Tribesmaster" hidden="false" collective="false" type="model">
           <profiles>
-            <profile id="6549-2029-f463-816f" name="Mahud Tribesmaster" book="Armies of Lord of the Rings" page="201" hidden="false" profileTypeId="80cb-17d0-8683-a212" profileTypeName="Hero">
+            <profile id="6549-2029-f463-816f" name="Mahûd Tribesmaster" book="Armies of Lord of the Rings" page="201" hidden="false" profileTypeId="80cb-17d0-8683-a212" profileTypeName="Hero">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -244,7 +244,7 @@
                 <characteristic name="Will" characteristicTypeId="b509-13ce-7d03-816e" value="1"/>
                 <characteristic name="Fate" characteristicTypeId="67f5-8c5e-868c-5bd5" value="1"/>
                 <characteristic name="Heroic Actions" characteristicTypeId="fc29-34ba-8883-0379" value="March Strength"/>
-                <characteristic name="Keywords" characteristicTypeId="52a2-dbbe-8d97-a8a2" value="Man Mahud Infantry Hero"/>
+                <characteristic name="Keywords" characteristicTypeId="52a2-dbbe-8d97-a8a2" value="Man Mahûd Infantry Hero"/>
                 <characteristic name="Heroic Tier" characteristicTypeId="2b79-2cec-28e7-0b0d" value="Hero of Fortitude"/>
               </characteristics>
             </profile>
@@ -294,8 +294,8 @@
             </entryLink>
           </entryLinks>
           <costs>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="50.0"/>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="50.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -318,12 +318,12 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="81cd-7c88-e14e-c2c2" name="Mahud King" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="81cd-7c88-e14e-c2c2" name="Mahûd King" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
@@ -339,9 +339,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="b0ee-96b5-e3c4-ab98" name="Mahud King" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="b0ee-96b5-e3c4-ab98" name="Mahûd King" hidden="false" collective="false" type="model">
           <profiles>
-            <profile id="5d78-1d35-2512-cd5b" name="Mahud King" book="Armies of Lord of the Rings" page="201" hidden="false" profileTypeId="80cb-17d0-8683-a212" profileTypeName="Hero">
+            <profile id="5d78-1d35-2512-cd5b" name="Mahûd King" book="Armies of Lord of the Rings" page="201" hidden="false" profileTypeId="80cb-17d0-8683-a212" profileTypeName="Hero">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -358,7 +358,7 @@
                 <characteristic name="Will" characteristicTypeId="b509-13ce-7d03-816e" value="2"/>
                 <characteristic name="Fate" characteristicTypeId="67f5-8c5e-868c-5bd5" value="1"/>
                 <characteristic name="Heroic Actions" characteristicTypeId="fc29-34ba-8883-0379" value="Strike Strength"/>
-                <characteristic name="Keywords" characteristicTypeId="52a2-dbbe-8d97-a8a2" value="Man Mahud Infantry Hero"/>
+                <characteristic name="Keywords" characteristicTypeId="52a2-dbbe-8d97-a8a2" value="Man Mahûd Infantry Hero"/>
                 <characteristic name="Heroic Tier" characteristicTypeId="2b79-2cec-28e7-0b0d" value="Hero of Fortitude"/>
               </characteristics>
             </profile>
@@ -408,8 +408,8 @@
             </entryLink>
           </entryLinks>
           <costs>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="70.0"/>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="70.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -432,18 +432,26 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0ef4-a17e-f1fb-b4b0" name="The Mumak War Leader" hidden="false" collective="false" type="upgrade">
+    <selectionEntry id="0ef4-a17e-f1fb-b4b0" name="The Mûmak War Leader" hidden="false" collective="false" type="upgrade">
       <profiles/>
       <rules/>
       <infoLinks/>
-      <modifiers/>
+      <modifiers>
+        <modifier type="set" field="1dcc-9f0f-4043-6b03" value="1">
+          <repeats/>
+          <conditions>
+            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="ff8a-8730-34ae-7173" type="equalTo"/>
+          </conditions>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
       <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="1dcc-9f0f-4043-6b03" type="max"/>
+        <constraint field="selections" scope="roster" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="1dcc-9f0f-4043-6b03" type="max"/>
       </constraints>
       <categoryLinks>
         <categoryLink id="c935-ad32-276e-2d2f" name="New CategoryLink" hidden="false" targetId="c6b6-f034-536e-5c37" primary="true">
@@ -455,9 +463,9 @@
         </categoryLink>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="8c2e-ec01-4523-dbb0" name="The Mumak War Leader" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="8c2e-ec01-4523-dbb0" name="The Mûmak War Leader" hidden="false" collective="false" type="model">
           <profiles>
-            <profile id="5f8c-611c-752e-780c" name="The Mumak War Leader" book="Forgeworld PDF" hidden="false" profileTypeId="80cb-17d0-8683-a212" profileTypeName="Hero">
+            <profile id="5f8c-611c-752e-780c" name="The Mûmak War Leader" book="Forgeworld PDF" hidden="false" profileTypeId="80cb-17d0-8683-a212" profileTypeName="Hero">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -474,7 +482,7 @@
                 <characteristic name="Will" characteristicTypeId="b509-13ce-7d03-816e" value="2"/>
                 <characteristic name="Fate" characteristicTypeId="67f5-8c5e-868c-5bd5" value="2"/>
                 <characteristic name="Heroic Actions" characteristicTypeId="fc29-34ba-8883-0379" value="March Strike Strength Challenge"/>
-                <characteristic name="Keywords" characteristicTypeId="52a2-dbbe-8d97-a8a2" value="Man Mahud Infantry Hero"/>
+                <characteristic name="Keywords" characteristicTypeId="52a2-dbbe-8d97-a8a2" value="Man Mahûd Infantry Hero"/>
                 <characteristic name="Heroic Tier" characteristicTypeId="2b79-2cec-28e7-0b0d" value="Hero of Legend"/>
               </characteristics>
             </profile>
@@ -487,7 +495,7 @@
               <modifiers/>
               <description>Whilst mounted upon his Royal War Mûmak, the first time each turn that an enemy model declares a Heroic Move within 12&quot; of the Mûmak War Leader, roll a D6. On a 4+, the Heroic Move is immediately cancelled and any Might points spent in declaring it are lost. Whilst the Mûmak War Leader is atop his Royal War Mûmak, measure the range of this special rule from the Mûmak’s base</description>
             </rule>
-            <rule id="77b3-fbb7-318d-efc8" name="High King of Mahud (Passive)" book="Forgeworld PDF" hidden="false">
+            <rule id="77b3-fbb7-318d-efc8" name="High King of Mahûd (Passive)" book="Forgeworld PDF" hidden="false">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -537,15 +545,15 @@
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
-                <selectionEntry id="6301-2cdd-7013-b4cf" name="Royal War Mumak" hidden="false" collective="false" type="upgrade">
+                <selectionEntry id="6301-2cdd-7013-b4cf" name="Royal War Mûmak" hidden="false" collective="false" type="model">
                   <profiles/>
                   <rules>
-                    <rule id="fee7-65b7-7aee-f814" name="Royal War Mumak (Passive)" hidden="false">
+                    <rule id="fee7-65b7-7aee-f814" name="Royal War Mûmak (Passive)" hidden="false">
                       <profiles/>
                       <rules/>
                       <infoLinks/>
@@ -554,12 +562,12 @@
                     </rule>
                   </rules>
                   <infoLinks>
-                    <infoLink id="d602-65a5-c609-0f7e" name="Mumak" hidden="false" targetId="3e5a-7b94-e952-cfde" type="profile">
+                    <infoLink id="d602-65a5-c609-0f7e" name="Mûmak" hidden="false" targetId="3e5a-7b94-e952-cfde" type="profile">
                       <profiles/>
                       <rules/>
                       <infoLinks/>
                       <modifiers>
-                        <modifier type="set" field="name" value="Royal War Mumak">
+                        <modifier type="set" field="name" value="Royal War Mûmak">
                           <repeats/>
                           <conditions/>
                           <conditionGroups/>
@@ -611,8 +619,8 @@
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -649,8 +657,8 @@
             </entryLink>
           </entryLinks>
           <costs>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="400.0"/>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="400.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -673,9 +681,9 @@
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
       </costs>
     </selectionEntry>
   </selectionEntries>
@@ -701,7 +709,9 @@
       <modifiers>
         <modifier type="set" field="5e73-dfba-1313-de59" value="1">
           <repeats/>
-          <conditions/>
+          <conditions>
+            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="18bd-5d69-3b58-61ac" type="atLeast"/>
+          </conditions>
           <conditionGroups/>
         </modifier>
       </modifiers>
@@ -743,11 +753,19 @@
             </conditionGroup>
           </conditionGroups>
         </modifier>
+        <modifier type="increment" field="13f7-dec6-959b-9163" value="1">
+          <repeats>
+            <repeat field="391e-19ac-b71d-f2e3" scope="force" value="3.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="f576-da66-65ff-4515" repeats="1" roundUp="true"/>
+          </repeats>
+          <conditions/>
+          <conditionGroups/>
+        </modifier>
       </modifiers>
       <constraints>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0e7c-468c-d517-b7e2" type="max"/>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="14ac-adef-3118-9e4f" type="min"/>
         <constraint field="391e-19ac-b71d-f2e3" scope="parent" value="18.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5c75-560d-58a2-7daa" type="max"/>
+        <constraint field="ab3b-a62b-ef54-533c" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="13f7-dec6-959b-9163" type="max"/>
       </constraints>
       <categoryLinks/>
       <selectionEntries>
@@ -766,7 +784,7 @@
                 <characteristic name="Attack" characteristicTypeId="6235-3861-befd-7242" value="2"/>
                 <characteristic name="Wounds" characteristicTypeId="ae83-f720-58f2-1a6d" value="2"/>
                 <characteristic name="Courage" characteristicTypeId="a0e1-d7a9-598e-1545" value="2"/>
-                <characteristic name="Keywords" characteristicTypeId="493a-2bc7-2330-a17b" value="Man Mahud Infantry Warrior"/>
+                <characteristic name="Keywords" characteristicTypeId="493a-2bc7-2330-a17b" value="Man Mahûd Infantry Warrior"/>
               </characteristics>
             </profile>
           </profiles>
@@ -783,7 +801,7 @@
           <constraints/>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="aebb-2085-5232-5c9c" name="Troll" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="aebb-2085-5232-5c9c" name="Troll" hidden="false" collective="false" type="model">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -826,8 +844,8 @@
               <selectionEntryGroups/>
               <entryLinks/>
               <costs>
-                <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="1.0"/>
-                <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="23.0"/>
+                <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="1.0"/>
+                <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="23.0"/>
                 <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
               </costs>
             </selectionEntry>
@@ -867,14 +885,16 @@
                       <conditionGroups/>
                     </modifier>
                   </modifiers>
-                  <constraints/>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a143-121e-327f-2a23" type="max"/>
+                  </constraints>
                   <categoryLinks/>
                   <selectionEntries/>
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -894,14 +914,14 @@
             </entryLink>
           </entryLinks>
           <costs>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="ad0f-5d0e-4449-f335" name="Mahud Raider" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="ad0f-5d0e-4449-f335" name="Mahûd Raider" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="d773-f774-d68c-a23d" name="Mahud Raider" book="Armies of Lord of the Rings" page="203" hidden="false" profileTypeId="41b1-0f32-a644-93b4" profileTypeName="Warrior">
+            <profile id="d773-f774-d68c-a23d" name="Mahûd Raider" book="Armies of Lord of the Rings" page="203" hidden="false" profileTypeId="41b1-0f32-a644-93b4" profileTypeName="Warrior">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -914,7 +934,7 @@
                 <characteristic name="Attack" characteristicTypeId="6235-3861-befd-7242" value="1"/>
                 <characteristic name="Wounds" characteristicTypeId="ae83-f720-58f2-1a6d" value="1"/>
                 <characteristic name="Courage" characteristicTypeId="a0e1-d7a9-598e-1545" value="2"/>
-                <characteristic name="Keywords" characteristicTypeId="493a-2bc7-2330-a17b" value="Man Mahud Cavalry Warrior"/>
+                <characteristic name="Keywords" characteristicTypeId="493a-2bc7-2330-a17b" value="Man Mahûd Cavalry Warrior"/>
               </characteristics>
             </profile>
           </profiles>
@@ -924,7 +944,7 @@
           <constraints/>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="daab-5721-c2b2-c681" name="Raider" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="daab-5721-c2b2-c681" name="Raider" hidden="false" collective="false" type="model">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -967,8 +987,8 @@
               <selectionEntryGroups/>
               <entryLinks/>
               <costs>
-                <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="17.0"/>
-                <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="1.0"/>
+                <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="17.0"/>
+                <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="1.0"/>
                 <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
               </costs>
             </selectionEntry>
@@ -1009,8 +1029,8 @@
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1071,14 +1091,16 @@
                       <conditionGroups/>
                     </modifier>
                   </modifiers>
-                  <constraints/>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="907a-2a88-0f97-d812" type="max"/>
+                  </constraints>
                   <categoryLinks/>
                   <selectionEntries/>
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1108,14 +1130,16 @@
                       <conditionGroups/>
                     </modifier>
                   </modifiers>
-                  <constraints/>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="539c-36fb-c3a9-8d7d" type="max"/>
+                  </constraints>
                   <categoryLinks/>
                   <selectionEntries/>
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1139,14 +1163,16 @@
                       <conditionGroups/>
                     </modifier>
                   </modifiers>
-                  <constraints/>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="309e-f494-4842-d0d6" type="max"/>
+                  </constraints>
                   <categoryLinks/>
                   <selectionEntries/>
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1157,14 +1183,14 @@
           </selectionEntryGroups>
           <entryLinks/>
           <costs>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="f465-b126-07f6-accb" name="Mahud Warrior" hidden="false" collective="false" type="upgrade">
+        <selectionEntry id="f465-b126-07f6-accb" name="Mahûd Warrior" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="bf20-55ca-f1f5-d919" name="Mahud Warrior" book="Armies of Lord of the Rings" page="202" hidden="false" profileTypeId="41b1-0f32-a644-93b4" profileTypeName="Warrior">
+            <profile id="bf20-55ca-f1f5-d919" name="Mahûd Warrior" book="Armies of Lord of the Rings" page="202" hidden="false" profileTypeId="41b1-0f32-a644-93b4" profileTypeName="Warrior">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1177,7 +1203,7 @@
                 <characteristic name="Attack" characteristicTypeId="6235-3861-befd-7242" value="1"/>
                 <characteristic name="Wounds" characteristicTypeId="ae83-f720-58f2-1a6d" value="1"/>
                 <characteristic name="Courage" characteristicTypeId="a0e1-d7a9-598e-1545" value="2"/>
-                <characteristic name="Keywords" characteristicTypeId="493a-2bc7-2330-a17b" value="Man Mahud Infantry Warrior"/>
+                <characteristic name="Keywords" characteristicTypeId="493a-2bc7-2330-a17b" value="Man Mahûd Infantry Warrior"/>
               </characteristics>
             </profile>
           </profiles>
@@ -1187,7 +1213,7 @@
           <constraints/>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="fbe1-114f-7149-4e93" name="Warrior" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="fbe1-114f-7149-4e93" name="Warrior" hidden="false" collective="false" type="model">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1230,8 +1256,8 @@
               <selectionEntryGroups/>
               <entryLinks/>
               <costs>
-                <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="8.0"/>
-                <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="1.0"/>
+                <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="8.0"/>
+                <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="1.0"/>
                 <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
               </costs>
             </selectionEntry>
@@ -1301,14 +1327,16 @@
                       <conditionGroups/>
                     </modifier>
                   </modifiers>
-                  <constraints/>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cffb-f504-d1c8-38df" type="max"/>
+                  </constraints>
                   <categoryLinks/>
                   <selectionEntries/>
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1338,14 +1366,16 @@
                       <conditionGroups/>
                     </modifier>
                   </modifiers>
-                  <constraints/>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d4f7-8d0c-ecab-9520" type="max"/>
+                  </constraints>
                   <categoryLinks/>
                   <selectionEntries/>
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1369,14 +1399,16 @@
                       <conditionGroups/>
                     </modifier>
                   </modifiers>
-                  <constraints/>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="50aa-a7c0-0ebe-5562" type="max"/>
+                  </constraints>
                   <categoryLinks/>
                   <selectionEntries/>
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1387,8 +1419,8 @@
           </selectionEntryGroups>
           <entryLinks/>
           <costs>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -1415,7 +1447,7 @@
           <constraints/>
           <categoryLinks/>
           <selectionEntries>
-            <selectionEntry id="428c-be84-43eb-ddf8" name="Warrior" hidden="false" collective="false" type="upgrade">
+            <selectionEntry id="428c-be84-43eb-ddf8" name="Warrior" hidden="false" collective="false" type="model">
               <profiles/>
               <rules/>
               <infoLinks/>
@@ -1429,8 +1461,8 @@
               <selectionEntryGroups/>
               <entryLinks/>
               <costs>
-                <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="1.0"/>
-                <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="6.0"/>
+                <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="1.0"/>
+                <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="6.0"/>
                 <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
               </costs>
             </selectionEntry>
@@ -1500,8 +1532,8 @@
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1546,8 +1578,8 @@
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1572,15 +1604,15 @@
                     </modifier>
                   </modifiers>
                   <constraints>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5c5c-0227-eb00-ebe9" type="max"/>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7b46-f956-8d88-ed84" type="max"/>
                   </constraints>
                   <categoryLinks/>
                   <selectionEntries/>
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1612,8 +1644,8 @@
                   <selectionEntryGroups/>
                   <entryLinks/>
                   <costs>
-                    <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-                    <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+                    <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+                    <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
                     <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1624,8 +1656,8 @@
           </selectionEntryGroups>
           <entryLinks/>
           <costs>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -1633,8 +1665,8 @@
       <selectionEntryGroups/>
       <entryLinks/>
       <costs>
-        <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
-        <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
+        <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+        <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="0.0"/>
         <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -1668,8 +1700,8 @@
           <selectionEntryGroups/>
           <entryLinks/>
           <costs>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="5.0"/>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="5.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -1699,8 +1731,8 @@
           <selectionEntryGroups/>
           <entryLinks/>
           <costs>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="5.0"/>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="5.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -1730,8 +1762,8 @@
           <selectionEntryGroups/>
           <entryLinks/>
           <costs>
-            <cost name="Points" costTypeId="8bde-d63c-7caa-c15d" value="10.0"/>
-            <cost name="Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
+            <cost name=" Points" costTypeId="8bde-d63c-7caa-c15d" value="10.0"/>
+            <cost name=" Warriors" costTypeId="391e-19ac-b71d-f2e3" value="0.0"/>
             <cost name="Bow" costTypeId="ab3b-a62b-ef54-533c" value="0.0"/>
           </costs>
         </selectionEntry>
